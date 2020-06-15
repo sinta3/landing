@@ -1,0 +1,33 @@
+@media screen and (min-width: 501px) {
+    .container1 {
+        display: flex;
+        
+    }
+
+    .container2{
+        display: flex;
+        justify-content: center;
+    }
+
+    h3 {
+        margin-top: 20px;
+        margin-left: 50px;
+    }
+
+    nav {
+        margin-left: 700px;
+        margin-top: 20px;
+     
+    }
+
+    
+    .container3{
+        display: flex;
+        justify-content: center;
+    }
+
+    .container4{
+        display: flex;
+        align-content: space-between;
+    }
+}
